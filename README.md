@@ -44,3 +44,4 @@ File deletion option – Implement a feature to delete files if necessary.
 Search functionality – Let users search for specific words or phrases.
 Password Protection – Add encryption for security.
 Conclusion The File Management Tool is a simple yet effective C++ application that demonstrates the power of file handling operations. With its write, append, and read functions, users can efficiently store and manage text-based information.
+##OUTPUT: ![Image](https://github.com/user-attachments/assets/7dd2b779-3381-4dc5-9206-30363b6537c6)
